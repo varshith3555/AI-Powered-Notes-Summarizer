@@ -31,7 +31,7 @@ A full-stack web application that allows users to write notes and get AI-powered
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/varshith3555/AI-Powered-Notes-Summarizer.git
    cd ai-notes-summarizer
    ```
 
